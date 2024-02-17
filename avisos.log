@@ -1,0 +1,13 @@
+[2024-02-17 00:45:29] [INFO ] [Animal:29] El animal está corriendo
+[2024-02-17 00:45:29] [INFO ] [Animal:29] El animal está corriendo
+[2024-02-17 00:45:29] [INFO ] [Tigre:10] El tigre es mayor a 10 años
+[2024-02-17 00:45:29] [INFO ] [Leon:18] El león es mayor a 10 años y alfa!
+[2024-02-17 00:46:12] [INFO ] [Animal:29] El animal está corriendo
+[2024-02-17 00:46:12] [INFO ] [Animal:29] El animal está corriendo
+[2024-02-17 00:46:12] [INFO ] [Tigre:10] El tigre es mayor a 10 años
+[2024-02-17 00:46:12] [INFO ] [Leon:18] El león es mayor a 10 años y alfa!
+[2024-02-17 00:47:22] [INFO ] [Animal:29] El animal está corriendo
+[2024-02-17 00:47:22] [INFO ] [Animal:29] El animal está corriendo
+[2024-02-17 00:47:22] [INFO ] [Tigre:10] El tigre es mayor a 10 años
+[2024-02-17 00:47:22] [INFO ] [Leon:18] El león es mayor a 10 años y alfa!
+[2024-02-17 00:47:22] [ERROR] [Leon:20] El león no es mayor a 10 años, por lo tanto no es alfa tampoco.
